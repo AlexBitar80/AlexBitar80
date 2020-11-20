@@ -17,7 +17,7 @@ Oi eu sou João Alexandre, sou desenvolvedor Frontend e estudante das áreas Bac
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=007acc&color=007acc)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-%23F7DF1C?style=flat-square&logo=Node.js&logoColor=ffffff&labelColor=339933&color=339933)
-![React-Native](https://img.shields.io/badge/-ReactNative-%23F7DF1C?style=flat-square&logo=React&logoColor=7159c1&labelColor=14171A&color=14171A)
+![React-Native](https://img.shields.io/badge/-ReactNative-%23F7DF1C?style=flat-square&logo=React&logoColor=7159c1&labelColor=282c34&color=282c34)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
