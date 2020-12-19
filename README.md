@@ -1,9 +1,16 @@
 <img align="right" src="https://user-images.githubusercontent.com/56983783/99731734-16760f00-2a9d-11eb-9275-eceb5cfec739.png" width="400" height="400" atl="Image"/>
 
 <div align="center"> <h1 align="center"> João Alexandre </h1> </div>
+
 <p align="center">
-<a href="https://github.com/AlexBitar80" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-alexandre-bitar-de-andrade-6472161a3/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+
+  <a href="https://github.com/AlexBitar80">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a  href="https://www.linkedin.com/in/     jo%C3%A3o-alexandre-bitar-de-andrade-6472161a3/">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 Oi eu sou João Alexandre, sou desenvolvedor Frontend e estudante das áreas Backend e Mobile.
