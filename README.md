@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a  href="https://www.linkedin.com/in/     jo%C3%A3o-alexandre-bitar-de-andrade-6472161a3/">
+  <a  href="https://www.linkedin.com/in/jo%C3%A3o-alexandre-bitar-de-andrade-6472161a3/">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
