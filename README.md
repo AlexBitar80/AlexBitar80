@@ -1,5 +1,3 @@
-<img align="right" src="https://user-images.githubusercontent.com/56983783/99731734-16760f00-2a9d-11eb-9275-eceb5cfec739.png" width="400" height="400" atl="Image"/>
-
 <div align="center"> <h1 align="center"> João Alexandre </h1> </div>
 
 <p align="center">
@@ -14,7 +12,6 @@
 </p>
 
 Oi eu sou João Alexandre, sou desenvolvedor Frontend e estudante das áreas Backend e Mobile.
-
 :grin: Atualmente Estou estudando NodeJs, ReactJs e React-Native.
 
 **Tecnologias que eu tenho utilizado:**  
@@ -29,19 +26,3 @@ Oi eu sou João Alexandre, sou desenvolvedor Frontend e estudante das áreas Bac
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
-
-<!--
-**elangosundar/elangosundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
