@@ -13,14 +13,6 @@
 Oi eu sou João Alexandre, sou desenvolvedor Frontend e estudante das áreas Backend e Mobile.
 :grin: Atualmente Estou estudando NodeJs, ReactJs e React-Native.
 
-<div align="center">
-
-<p align="center"> 
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=AlexBitar80&show_icons=true" alt="profile data" />
-</p>
-
-</div>
-
 **Tecnologias que eu tenho utilizado:**  
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -33,3 +25,11 @@ Oi eu sou João Alexandre, sou desenvolvedor Frontend e estudante das áreas Bac
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+<div align="center">
+
+<p align="center"> 
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=AlexBitar80&show_icons=true" alt="profile data" />
+</p>
+
+</div>
