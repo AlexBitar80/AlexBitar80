@@ -1,7 +1,6 @@
-<div align="center"> <h1 align="center"> João Alexandre </h1> </div>
+<div align="center"> <h1 align="center"> João Alexandre</h1> </div>
 
 <p align="center">
-
   <a href="https://github.com/AlexBitar80">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -13,6 +12,14 @@
 
 Oi eu sou João Alexandre, sou desenvolvedor Frontend e estudante das áreas Backend e Mobile.
 :grin: Atualmente Estou estudando NodeJs, ReactJs e React-Native.
+
+<div align="center">
+
+<p align="center"> 
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=AlexBitar80&show_icons=true" alt="profile data" />
+</p>
+
+</div>
 
 **Tecnologias que eu tenho utilizado:**  
 
