@@ -18,13 +18,15 @@ Oi eu sou João Alexandre, sou desenvolvedor Frontend e atualmente estou estudan
 
 **Tecnologias que eu tenho utilizado:**  
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML$5"/>
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="javascript"/>
   <img src="https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=007acc&color=007acc" alt="typescript"/>
   <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" alt="react.js"/>
 </div>
+
+<br/>
 
 <div align="center">
 
