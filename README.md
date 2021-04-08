@@ -14,9 +14,9 @@
   </a>
 </p>
 
-Oi eu sou João Alexandre, sou desenvolvedor Frontend e atualmente estou estudando React.js e Next.js .
+👋🏻 Oi eu sou João Alexandre, sou desenvolvedor Frontend e atualmente estou estudando React.js e Next.js .
 
-**Tecnologias que eu tenho utilizado:**  
+**🚀 Tecnologias que eu tenho utilizado:**  
 
 <div align="left">
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML$5"/>
