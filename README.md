@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/AlexBitar80">
     <img src="https://img.shields.io/badge/AlexBitar80-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/joão-alexandre-bitar-de-andrade/">
     <img src="https://img.shields.io/badge/João%20Alexandre%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
