@@ -30,7 +30,7 @@ e hoje em dia tenho foco na parte front-end para web.
 
 #### Entre em contato comigo:
 
-:mailbox_with_mail: E-mail:&nbsp; <a href="mailto:joaoalexandre.bitar@hotmai.com?">joaoalexandre.bitar@hotmai.com</a> <br/>
+:mailbox_with_mail: E-mail:&nbsp; <a href="mailto:joaoalexandre.bitar@hotmai.com?">joaoalexandre.bitar@hotmail.com</a> <br/>
 :iphone: Twitter:&nbsp; <a href="https://twitter.com/j_alexandrebita">@j_alexandrebita</a>
 
 <p align="center">
