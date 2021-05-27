@@ -20,7 +20,7 @@ e hoje em dia tenho foco na parte front-end para web.
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-#### Entre em contato comigo:
+### :mailbox_with_mail: Entre em contato comigo:
  
 :e-mail: <a href="mailto:joaoalexandre.bitar@hotmai.com?">E-mail</a> <br/>
 :leaves: <a href="https://twitter.com/j_alexandrebita">Twitter</a> <br/>
