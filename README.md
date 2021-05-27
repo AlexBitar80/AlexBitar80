@@ -1,13 +1,5 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Oi, eu sou João Alexandre** 
-
-<p align="center">
-  <a href="https://github.com/AlexBitar80">
-    <img src="https://img.shields.io/badge/AlexBitar80-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/joão-alexandre-bitar-de-andrade/">
-    <img src="https://img.shields.io/badge/João%20Alexandre%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-</p>
+<br/>
 
 :grin: Sou densenvolvedor desde o início de 2019, nesse meio tempo já tive contato com a parte backed e mobile,
 e hoje em dia tenho foco na parte front-end para web.
@@ -29,9 +21,11 @@ e hoje em dia tenho foco na parte front-end para web.
 </p>
 
 #### Entre em contato comigo:
-
-:mailbox_with_mail: E-mail:&nbsp; <a href="mailto:joaoalexandre.bitar@hotmai.com?">joaoalexandre.bitar@hotmail.com</a> <br/>
-:iphone: Twitter:&nbsp; <a href="https://twitter.com/j_alexandrebita">@j_alexandrebita</a>
+ 
+:e-mail: <a href="mailto:joaoalexandre.bitar@hotmai.com?">E-mail</a> <br/>
+:leaves: <a href="https://twitter.com/j_alexandrebita">Twitter</a> <br/>
+:iphone: <a href="https://www.linkedin.com/in/joão-alexandre-bitar-de-andrade/">Linkedin</a> <br/>
+:pushpin: <a href="https://github.com/AlexBitar80">Github</a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexBitar80&show_icons=true&theme=dracula" alt="dados do perfil"/>
