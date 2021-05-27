@@ -22,10 +22,10 @@ e hoje em dia tenho foco na parte front-end para web.
 
 ### :mailbox_with_mail: Entre em contato comigo:
  
-:e-mail: <a href="mailto:joaoalexandre.bitar@hotmai.com?">E-mail</a> <br/>
-:leaves: <a href="https://twitter.com/j_alexandrebita">Twitter</a> <br/>
-:iphone: <a href="https://www.linkedin.com/in/joão-alexandre-bitar-de-andrade/">Linkedin</a> <br/>
-:pushpin: <a href="https://github.com/AlexBitar80">Github</a>
+- :e-mail: <a href="mailto:joaoalexandre.bitar@hotmai.com?">E-mail</a> <br/>
+- :leaves: <a href="https://twitter.com/j_alexandrebita">Twitter</a> <br/>
+- :iphone: <a href="https://www.linkedin.com/in/joão-alexandre-bitar-de-andrade/">Linkedin</a> <br/>
+- :pushpin: <a href="https://github.com/AlexBitar80">Github</a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexBitar80&show_icons=true&theme=dracula" alt="dados do perfil"/>
