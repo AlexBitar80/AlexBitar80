@@ -1,7 +1,8 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Oi, eu sou João Alexandre** 
 <br/>
 
-Desenvolvedor desde 2019, nesse meio tempo tive contato com a parte backed e mobile, e hoje tenho foco na parte front-end para web. 😀
+Desenvolvedor desde 2019, nesse meio tempo tive contato com a parte backed e mobile, <br/>
+e hoje tenho foco na parte front-end para web. 😀
 
 ### :rocket: Tenho conhecimentos em: <br/>
 <p align="left">
