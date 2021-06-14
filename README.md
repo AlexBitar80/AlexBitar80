@@ -24,7 +24,7 @@ e hoje tenho foco na parte front-end para web. 😀
  
 - :e-mail: <a href="mailto:joaoalexandre.bitar@hotmai.com?">E-mail</a> <br/>
 - :leaves: <a href="https://twitter.com/j_alexandrebita">Twitter</a> <br/>
-- :iphone: <a href="https://www.linkedin.com/in/joão-alexandre-bitar-de-andrade/">Linkedin</a> <br/>
+- :iphone: <a href="https://www.linkedin.com/in/alexandre-bitar/">Linkedin</a> <br/>
 - :pushpin: <a href="https://github.com/AlexBitar80">Github</a>
 
 <p align="center">
