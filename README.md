@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Oi, eu sou João Alexandre** 
 <br/>
 
-Programo desde 2019 com javascript, e nos ultimos meses estive bem focado em frontend web com ReactJS e Next.js, mas a alguns dias comecei a aprender Swift! 😀
+Comecei a programar 2019 com javascript, e nos ultimos meses estive bem focado em frontend web com ReactJS e Next.js, mas a alguns dias comecei a aprender Swift! 😀
 
 ### :rocket: Tenho conhecimentos em: <br/>
 <p align="left">
