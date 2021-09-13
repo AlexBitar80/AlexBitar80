@@ -23,7 +23,7 @@ Comecei a programar em 2019 com javascript, e nos ultimos meses estive bem focad
 ### :mailbox_with_mail: Bora conversar?
  
 
-  <a href="mailto:joaoalexandre.bitar@hotmai.com?">
+  <a href="mailto:joaoalexandre.bitar@hotmai.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/j_alexandrebita">
