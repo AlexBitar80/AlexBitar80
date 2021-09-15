@@ -8,7 +8,7 @@ Oi, eu sou **João Alexandre** tenho 21 anos, e desde 2019 estou nesse mundo de 
 #### Tecnologias que estou estudando atualmente: 
   _Next.js, typescript, Swift_
 
-### Entre e contato comigo.
+### Entre em contato comigo.
  
 
   <a href="mailto:joaoalexandre.bitar@hotmai.com">
