@@ -1,4 +1,4 @@
-Oi, eu sou **João Alexandre** tenho 21 anos, e desde 2019 estou neste mundo de deseolvimento.
+Oi, eu sou **João Alexandre** tenho 21 anos, e desde 2019 estou neste mundo de desevolvimento.
 
 <img src="https://user-images.githubusercontent.com/56983783/133364859-7274839c-e5bd-4bf4-aff1-e535daf0b64c.png" min-width="300px" max-width="300px" width="300px" align="right" alt="computador">
 
