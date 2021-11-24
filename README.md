@@ -12,7 +12,7 @@ Oi, eu sou **João Alexandre** tenho 21 anos, e desde 2019 estou neste mundo de 
 
 ### Entre em contato comigo.
  
-  <a href="mailto:joaoalexandre.bitar@hotmai.com">
+  <a href="mailto:joaoalexandre.bitar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-f44336.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/j_alexandrebita">
