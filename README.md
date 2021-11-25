@@ -25,7 +25,3 @@ Oi, eu sou **João Alexandre** tenho 21 anos, e desde 2019 estou neste mundo de 
    <img src="https://img.shields.io/badge/Rocketseat-8257e5.svg?style=for-the-badge&logo=rocketseat&logoColor=white" alt="Rocketseat" />
   </a>
   
-&nbsp;&nbsp;
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexBitar80&show_icons=true&theme=dracula" alt="dados do perfil"/>
-</p>
