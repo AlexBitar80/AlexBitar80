@@ -6,7 +6,7 @@
 ### Perfil pessoal:
 
 - 👨🏻‍💻 Programo a 3 anos;
-- 🚀 Atualmente estou aprendo Swift para IOS;
+- 🚀 Atualmente estou aprendendo Swift para IOS;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Como entrar em contato comigo: [joaoalexandre.bitar@gmail.com](mailto:joaoalexandre.bitar@gmail.com);
 
