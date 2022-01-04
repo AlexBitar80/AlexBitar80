@@ -15,3 +15,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexandre-bitar)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/j_alexandrebita)
 [![Rocketseat Profile](https://img.shields.io/badge/-Rocketseat-8257e5?style=flat-square&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/joao-alexandre)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/joao.alexandreb/)
