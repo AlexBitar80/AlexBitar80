@@ -1,18 +1,19 @@
-### Olá, eu sou João Alexandre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi, i'am João Alexandre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47ctyu8c1agu29abhvmujsvyrqp94k39bip16u1ecw&rid=giphy.gif&ct=g" width="200" height="200" />
 
+I started programming in 2019 and fell in love with web development, where I had experience with React.js and Next.js and in 2021 I learned about the development for IOS that I've been studying for the last few months
 
-### Perfil pessoal:
+### personal profile:
 
-- 👨🏻‍💻 entusiasta de desenvolvimento web e mobile;
-- 🚀 Atualmente estou aprendendo Swift para IOS;
-- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
-- 📫 Como entrar em contato comigo: [joaoalexandre.bitar@gmail.com](mailto:joaoalexandre.bitar@gmail.com);
+- 👨🏻‍💻 web and mobile development enthusiast;
+- 🚀 I'm currently learning Swift for IOS (SwiftUI and UIKit);
+- 💬 Ask me about Web development and IOS, I'll be happy to help.;
 
-### Me siga nas outras redes:
+### 📫 contact me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexandre-bitar)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/j_alexandrebita)
-[![Rocketseat Profile](https://img.shields.io/badge/-Rocketseat-8257e5?style=flat-square&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/joao-alexandre)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/joao.alexandreb/)
+- [E-mail](mailto:joaoalexandre.bitar@gmail.com)
+- [Linkedin](https://linkedin.com/in/alexandre-bitar)
+- [Twitter](https://twitter.com/j_alexandrebita)
+- [Instagram](https://www.instagram.com/joao.alexandreb/)
+- [Rocketseat](https://app.rocketseat.com.br/me/joao-alexandre)
