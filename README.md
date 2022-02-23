@@ -13,7 +13,7 @@ I started programming in 2019 and fell in love with web development, where I had
 ### 📫 contact me:
 
 - [E-mail](mailto:joaoalexandre.bitar@gmail.com)
-- [Linkedin](https://linkedin.com/in/alexandre-bitar)
+- [Linkedin](www.linkedin.com/in/joaoalexandrebitar)
 - [Twitter](https://twitter.com/alexandrebitar_)
 - [Instagram](https://www.instagram.com/joao.alexandreb/)
 - [Rocketseat](https://app.rocketseat.com.br/me/joao-alexandre)
