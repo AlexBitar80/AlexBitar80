@@ -6,11 +6,11 @@ I'm currently 21 years old and I'm studying information systems in college, I st
 
 ### personal profile:
 
-- 👨🏻‍💻 web developer with (HTML, CSS, Javascript, React);
-- 🚀 I'm currently learning Swift for IOS (SwiftUI and UIKit);
-- 💬 Ask me about web and IOS development, I'll be happy to help;
+- web developer with (HTML, CSS, Javascript, React);
+- I'm currently learning Swift for IOS (SwiftUI and UIKit);
+- Ask me about web and IOS development, I'll be happy to help;
 
-### 📫 contact me:
+### contact me:
 
 - [E-mail](mailto:joaoalexandre.bitar@gmail.com)
 - [Linkedin](www.linkedin.com/in/joaoalexandrebitar)
