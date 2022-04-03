@@ -6,7 +6,7 @@ I'm currently 21 years old and I'm studying information systems in college, I st
 
 ### personal profile:
 
-- web developer with (HTML, CSS, Javascript, React);
+- web developer with (HTML, CSS, Javascript, React, Next.js);
 - I'm currently learning Swift for IOS (SwiftUI and UIKit);
 - Ask me about web and IOS development, I'll be happy to help;
 
