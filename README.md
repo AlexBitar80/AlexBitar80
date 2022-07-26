@@ -2,13 +2,12 @@
 
 <!-- <img align="right" alt="GIF" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47ctyu8c1agu29abhvmujsvyrqp94k39bip16u1ecw&rid=giphy.gif&ct=g" width="200" height="200" /> -->
 
-I'm currently 21 years old and I'm studying information systems in college, I started programming in 2019 through web development where I had experience with React and Next.js, and in 2021 I started to venture into IOS development with Swift (UIKit and SwiftUI)
+I am currently 21 years old, working as an iOS development intern at BRQ, and studying information systems at college.
 
 ### personal profile:
 
-- web developer with (HTML, CSS, Javascript, React, Next.js);
-- I'm currently learning Swift for IOS (SwiftUI and UIKit);
-- Ask me about web and IOS development, I'll be happy to help;
+- iOS developer with (Swift, ViewCode, SwiftUI, Tests, Cocoapods);
+- Ask me about iOS development, I'd love to help;
 
 ### contact me:
 
@@ -16,4 +15,3 @@ I'm currently 21 years old and I'm studying information systems in college, I st
 - [Linkedin](www.linkedin.com/in/joaoalexandrebitar)
 - [Twitter](https://twitter.com/alexandrebitar_)
 - [Instagram](https://www.instagram.com/joao.alexandreb/)
-- [Rocketseat](https://app.rocketseat.com.br/me/joao-alexandre)
