@@ -13,8 +13,8 @@ I am currently 22 years old, working as an mobile development intern at BRQ, and
 
 ### personal profile:
 
-- mobile developer with: ```UIKit``` | ```SwiftUI``` | ```Flutter``` | ```ViewCode``` | ```Storyboard``` | ```iOS``` | ```Android```
-- programming languages: ```Swift``` | ```Dart```
+- Mobile developer with: ```UIKit``` | ```SwiftUI``` | ```Flutter``` | ```ViewCode``` | ```Storyboard``` | ```iOS``` | ```Android```
+- Programming languages: ```Swift``` | ```Dart```
 - Ask me about mobile development, I'd love to help;
 
 ### contact me:
