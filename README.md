@@ -21,4 +21,4 @@ I am currently 23 years old, working as an mobile development intern at BRQ, and
 
 - [E-mail](mailto:joaoalexandre.bitar@gmail.com)
 - [Linkedin](www.linkedin.com/in/joaoalexandrebitar)
-- [Instagram](https://www.instagram.com/joao.alexandreb/)
+- [Instagram](https://www.instagram.com/joaoalexbitar/)
